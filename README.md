@@ -51,14 +51,6 @@ The system eliminates manual paperwork by automating attendance management, acad
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="650"/>
-
-</div>
-
----
-
 # 🚀 Features
 
 ## 👨‍🎓 Student Services
